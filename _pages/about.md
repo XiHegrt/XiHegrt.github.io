@@ -15,7 +15,7 @@ A pivotal contribution to my work is the establishment of a comprehensive framew
 
 In a recent endeavor, I applied the recursive optimization scheme to address the well-known 0-1 loss linear classification problem. This classic problem, dating back almost a century to Ronald Fisher's pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
 
-The application of the recursive optimization scheme represents a promising avenue for solving combinatorial optimization problems, and offers a new way of designing reliable and tractable machine learning algorithms that are sound and concise.
+The application of the recursive optimization scheme present a promising avenue for solving combinatorial optimization problems, and offers a new way of designing reliable and tractable machine learning algorithms that are sound and concise.
 
 # Experience
 
