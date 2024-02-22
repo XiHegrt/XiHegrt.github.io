@@ -7,43 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![Recursive optimization example](/images/Recursive_optimization.png){: .align-right width="300px"}
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ I specialize in the development of efficient and exact algorithms aimed at addressing challenging combinatorial intractable problems, many of which fall under the category of NP-complete/NP-hard problems. My approach involves employing a formal methodology that combines a diverse range of applied mathematics disciplines, including **category theory**, **the algebra of programming** (or **the Bird-Meertens Formalism**), **real algebraic geometry**, and **combinatorial generation**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+A pivotal contribution to my work is the establishment of a comprehensive framework called the "**recursive optimization scheme**." This innovative approach amalgamates methodologies from the aforementioned theories, providing a versatile solution for solving intricate combinatorial optimization problems. Currently, my focus extends to the application of this framework in machine learning research.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In a recent endeavor, I applied the recursive optimization scheme to address the well-known 0-1 loss linear classification problem. This classic problem, dating back almost a century to Ronald Fisher's pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The application of the recursive optimization scheme represents a promising avenue for designing machine learning methodologies, it is a completely new way of designing reliable and tractable machine learning algorithms that are sound and concise.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Experience
 
-**Markdown generator**
+## Education
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- Dec. 2021- present:  I am a third-year PhD student from the [Department of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), supervised by Dr. [Max. Little](http://www.maxlittle.net/home/index.php). 
+- Sept. 2017- June 2021: *Bachelor of Science* at [Zhejiang Normal University](https://www.zjnu.edu.cn/main.htm).  Where I majored in Mechanical Design Manufacturing and Automation.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Research
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344.pdf) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review)
+- [Dynamic programming by polymorphic algebraic shortcut fusion] Max A. Little, Xi He, Ugur Kayas (Under review)
+  -
+  These three papers are talking about the same story, that is, a recursive optimization algorithm (or dynamic programming) can be constructed, accelerated and reconstructed through the identification of monotonicity (distributivity in the function case).
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Software
+
+You can find the Python implementations of my algorithms from my [Git repositories](https://github.com/XiHegrt).
+
+## Activities
+
+- 2-6 April, 2023 Attending [Midlands Graduate School 2023 (bham.ac.uk)](https://www.cs.bham.ac.uk/~mhe/events/MGS23/), Birmingham, UK 
+- 13 June, 2023 Attending [Advances in Data Science and AI Conference 2023 (manchester.ac.uk)](https://events.manchester.ac.uk/event/event:k14l-leplq84p-od61dv/idsai-advances-in-data-science-and-ai-conference-2023), Manchester
+
+## Profile
+
+My name is Xi He,  which is the Chinese transcription of "何希",  "Xi" pronounce as "She", it means "hope" in Chinese.
+
+I enjoy lifting weights, basketball and hiking in my free time. I also write some blogs about my research or some of my understanding of existing knowledge...
