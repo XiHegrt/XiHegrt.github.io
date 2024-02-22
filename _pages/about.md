@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Recursive optimization scheme](/images/generation tree.png){: .align-right width="300px"}
+![Recursive optimization scheme](/images/generation_tree.png){: .align-right width="300px"}
 
  I specialize in the development of efficient and exact algorithms aimed at addressing challenging combinatorial intractable problems, many of which fall under the category of NP-complete/NP-hard problems. My approach involves employing a formal methodology that combines a diverse range of applied mathematics disciplines, including **category theory**, **the algebra of programming** (or **the Bird-Meertens Formalism**), **real algebraic geometry**, and **combinatorial generation**.
 
