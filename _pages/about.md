@@ -44,4 +44,4 @@ You can find the Python implementations of my algorithms from my [Git repositori
 
 My name is Xi He,  which is the Chinese transcription of "何希",  "Xi" pronounce as "She", it means "hope" in Chinese.
 
-I enjoy lifting weights, basketball and hiking in my free time. I also write some blogs about my research or some of my understanding of existing knowledge...
+I enjoy lifting weights, basketball and hiking in my free time. I also write some blogs sometimes.
