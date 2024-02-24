@@ -28,7 +28,8 @@ The application of the recursive optimization scheme present a promising avenue 
 
 - [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344.pdf) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review)
 - [Dynamic programming by polymorphic algebraic shortcut fusion](https://arxiv.org/pdf/2107.01752.pdf) Max A. Little, **Xi He**, Ugur Kayas (Under review)
-  These three papers are talking about the same story, that is, a recursive optimization algorithm (or dynamic programming) can be constructed, accelerated and reconstructed through the identification of monotonicity (distributivity in the function case).
+
+These three papers are talking about the same story, that is, a recursive optimization algorithm (or dynamic programming) can be constructed, accelerated and reconstructed through the identification of monotonicity (distributivity in the function case).
 
 ## Software
 
