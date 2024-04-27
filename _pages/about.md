@@ -9,9 +9,9 @@ redirect_from:
 
 ![Recursive optimization scheme](/images/generationtrees.png){: .align-right width="400px"}
 
- I specialize in the development of efficient and exact algorithms aimed at addressing intractable combinatorial optimization problems, many of which fall under the category of NP-complete/NP-hard problems. My approach involves employing a formal methodology that combines a diverse range of applied mathematics disciplines, including **applied category theory**, **the algebra of programming** (or **the Bird-Meertens Formalism**), **real algebraic geometry**, and **combinatorial generation**.
+ I specialize in the development of efficient and exact algorithms aimed at addressing intractable combinatorial optimization problems, many of which fall under the category of NP-complete/NP-hard problems. 
 
-A pivotal contribution to my work is the establishment of a comprehensive framework called the "**recursive optimization scheme**." This innovative approach amalgamates methodologies from the aforementioned theories, providing a versatile solution for solving intricate combinatorial optimization problems. Currently, my focus extends to the application of this framework in machine learning research.
+A pivotal contribution to my work is the establishment of a comprehensive framework called the "**recursive optimization scheme**." My approach involves employing a formal methodology that combines a diverse range of mathematics disciplines, including **category theory**, **the algebra of programming** (or **the Bird-Meertens Formalism**), **real algebraic geometry**, and **combinatorial generation**, providing a versatile solution for solving intricate combinatorial optimization problems. Currently, my focus extends to the application of this framework in machine learning research.
 
 In a recent endeavor, I applied the recursive optimization scheme to address the well-known 0-1 loss linear classification problem. This classic problem, dating back almost a century to Ronald Fisher's pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
 
