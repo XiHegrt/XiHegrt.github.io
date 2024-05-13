@@ -9,13 +9,15 @@ redirect_from:
 
 ![Recursive optimization scheme](/images/generationtrees.png){: .align-right width="400px"}
 
- I specialize in the development of efficient and exact algorithms aimed at addressing intractable combinatorial optimization problems, many of which fall under the category of NP-complete/NP-hard problems. 
+ I am interested in designing efficient and exact algorithms for solving intractable combinatorial optimization problems, many of which are NP-complete/NP-hard problems. 
 
-A pivotal contribution to my work is the establishment of a comprehensive framework called the "**recursive optimization scheme**." My approach involves employing a formal methodology that combines a diverse range of mathematics disciplines, including **category theory**, **the algebra of programming** (or **the Bird-Meertens Formalism**), **combinatorial/computational geometry**, and **combinatorial generation**, providing a versatile solution for solving intricate combinatorial optimization problems. Currently, my focus extends to the application of this framework in machine learning research.
+My current studies employ a formal formalism, known as **transformational programming**,  to design reliable and efficient algorithms. Combined with the studies in **the algebra of programming**, **combinatorial/computational geometry**, and **combinatorial generation**, I established a generic framework for designing combinatorial optimization algorithms in a more general optimization setting, we call this framework **recursive optimization scheme**.
 
-In a recent endeavor, I applied the recursive optimization scheme to address the well-known 0-1 loss linear classification problem. This classic problem, dating back almost a century to Ronald Fisher's pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
+ Currently, I focus on applying our generic framework in machine learning research.  Previously, we have designed a polynomial-time algorithm for solving the 0-1 loss linear classification problem exactly, this classic problem, dating back almost a century to Ronald Fisher’s pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
 
-The application of the recursive optimization scheme present a promising avenue for solving combinatorial optimization problems, and offers a new way of designing reliable and tractable machine learning algorithms that are sound and concise.
+We have successfully designed many sequential and parallelized algorithms for solving many classical intricate combinatorial machine learning problems.
+
+More recently, we have successfully designed many sequential and parallelized algorithms for solving many classical intricate combinatorial machine learning problems, including the 0-1 loss hypersurface classification problem, the K-medoids problem, and the 2-means problem. Numerous potential applications of our generic approach can be invested further, we believe this formalism presents a promising avenue for designing reliable and tractable machine learning algorithms that are sound and concise.
 
 # Experience
 
