@@ -15,8 +15,6 @@ My current studies employ a formal formalism, known as **transformational progra
 
 Currently, I focus on applying our generic framework in machine learning research. For instance, we previously designed a polynomial-time algorithm for solving the 0-1 loss linear classification problem exactly, this classic problem, dating back almost a century to Ronald Fisher’s pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
 
-We have successfully designed many sequential and parallelized algorithms for solving many classical intricate combinatorial machine learning problems.
-
 More recently, we have successfully designed many sequential and parallelized algorithms for solving many classical intricate combinatorial machine learning problems, including the 0-1 loss hypersurface classification problem, the K-medoids problem, and the 2-means problem. Numerous potential applications of our generic framework can be invested further, we believe this formalism presents a promising avenue for designing reliable and tractable machine learning algorithms that are sound and concise.
 
 # Experience
