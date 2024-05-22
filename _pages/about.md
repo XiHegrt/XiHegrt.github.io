@@ -28,7 +28,7 @@ More recently, we have successfully designed many sequential and parallelized 
 
 - [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344.pdf) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review in the Journal of Machine Learning Research)
 - [Dynamic programming by polymorphic algebraic shortcut fusion](https://arxiv.org/pdf/2107.01752.pdf) Max A. Little, **Xi He**, Ugur Kayas, *Formal Aspects of Computing* (in press).
-- EKM: An exact, polynomial-time algorithm for the K-medoids problem. **Xi He**, Max A. Little (Under review).
+- [EKM: An exact, polynomial-time algorithm for the K-medoids problem.](https://arxiv.org/pdf/2405.12237) **Xi He**, Max A. Little (Under review).
 
 ## Software
 
