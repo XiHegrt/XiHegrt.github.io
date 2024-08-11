@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 ![Recursive optimization scheme](/images/generationtrees.png){: .align-right width="400px"}
+I am interested in designing efficient and exact algorithms for solving intractable combinatorial optimization problems.
 
- I am interested in designing efficient and exact algorithms for solving intractable combinatorial optimization problems, many of which are NP-complete/NP-hard problems. 
+My research can be divided into two main parts: ***general theory*** and **focus theory**.
 
-My current studies employ a formal formalism, known as **transformational programming**,  to design reliable and efficient algorithms. Combined with the studies in **the algebra of programming**, **combinatorial/computational geometry**, and **combinatorial generation**, I established a generic framework for designing combinatorial optimization algorithms in a more general optimization setting, we call this framework **recursive optimization scheme**.
+The general theory focuses on the principles of algorithm design, we employ a formal formalism, known as **transformational programming**,  to design reliable and efficient algorithms. We show that classical combinatorial optimization methods, such as dynamic programming, greedy, branch-and-bound, and divide-and-conquer can all be characterised in the same framework and derived from brute-force algorithms.
 
-Currently, I focus on applying our generic framework in machine learning research. For instance, we previously designed a polynomial-time algorithm for solving the 0-1 loss linear classification problem exactly, this classic problem, dating back almost a century to Ronald Fisher’s pioneering work in 1936, has persisted as a challenge in the field. A breakthrough, nearly 30 years after the support vector machine was invented by Vapnik et al.
-
-More recently, we have successfully designed many sequential and parallelized algorithms for solving many classical intricate combinatorial machine learning problems, including the 0-1 loss hypersurface classification problem, the K-medoids problem, and the 2-means problem. Numerous potential applications of our generic framework can be invested further, we believe this formalism presents a promising avenue for designing reliable and tractable machine learning algorithms that are sound and concise.
+The focus theory is centered on developing practical algorithms for solving machine learning problems, particularly those involving finite points and hyperplanes. For example, we have designed exact algorithms to solve classification problems, K-clustering, decision tree optimization, and empirical risk minimization (ERM) for ReLU neural networks. All the algorithms developed within our framework are polynomial-time in the worst case and embarrassingly parallelizable.
 
 # Experience
 
