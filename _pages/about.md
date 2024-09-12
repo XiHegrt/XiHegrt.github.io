@@ -10,7 +10,7 @@ redirect_from:
 ![Recursive optimization scheme](/images/generationtrees.png){: .align-right width="400px"}
 I am interested in designing efficient and exact algorithms for solving intractable combinatorial optimization problems.
 
-My research can be divided into two main parts: ***general theory*** and **focus theory**.
+My research can be divided into two main parts: ***general theory*** and **focal theory**.
 
 The general theory focuses on the principles of algorithm design, we employ a formal formalism, known as **transformational programming**,  to design reliable and efficient algorithms. We show that classical combinatorial optimization methods, such as dynamic programming, greedy, branch-and-bound, and divide-and-conquer can all be characterised in the same framework and derived from brute-force algorithms.
 
