@@ -25,7 +25,7 @@ The focus theory is centered on developing practical algorithms for solving mach
 
 ## Research
 
-- [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review in the Journal of Machine Learning Research)
+- [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review)
 - [Dynamic programming by polymorphic algebraic shortcut fusion](https://dl.acm.org/doi/pdf/10.1145/3664828) Max A. Little, **Xi He**, Ugur Kayas, *Formal Aspects of Computing* (in press).
 - [EKM: An exact, polynomial-time algorithm for the K-medoids problem](https://arxiv.org/pdf/2405.12237) **Xi He**, Max A. Little (Under review).
 - The first empirical risk minimization algorithm for the ReLU neural networks **Xi He**, Max A. Little (in preparation).
