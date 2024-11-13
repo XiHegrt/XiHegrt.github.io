@@ -32,7 +32,7 @@ The focus theory is centered on developing practical algorithms for solving mach
 - Optimal decision tree algorithms: A divide-and-conquer approach **Xi He**, Max A. Little (in preparation).
 - Recursive optimization: Exact and efficient combinatorial optimization algorithm design principles **Xi He**, Max A. Little (in preparation).
 
-All the papers that are in preparation can be found in the discussion of my (draft) thesis [Recursive optimization framework](/assets/exact_ml_design_v9.pdf). 
+All the papers that are in preparation can be found in the discussion of my (draft) thesis [Recursive optimization framework](/assets/exact_ml_design_v9(DRAFT).pdf). 
 
 
 ## Software
