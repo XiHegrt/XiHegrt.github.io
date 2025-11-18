@@ -8,29 +8,45 @@ redirect_from:
 ---
 
 ![Recursive optimization scheme](/images/generationtrees.png){: .align-right width="400px"}
-I am interested in designing efficient and exact algorithms for solving intractable combinatorial optimization problems.
 
-My research can be divided into two main parts: ***general theory*** and **focal theory**.
+I’m fascinated by tools and programs you can actually prove things about—no hand-wavy “it works on my machine” stuff. My research focus  is somewhere between algorithm design, combinatorial optimization, and functional programming.
 
-The general theory focuses on the principles of algorithm design, we employ a formal formalism, known as **transformational programming**,  to design reliable and efficient algorithms. We show that classical combinatorial optimization methods, such as dynamic programming, greedy, branch-and-bound, and divide-and-conquer can all be characterised in the same framework and derived from brute-force algorithms.
+During my PhD, I explored how formal methods from programming-language theory — especially the [Bird–Meertens formalism](https://en.wikipedia.org/wiki/Bird%E2%80%93Meertens_formalism) (also known as transformational programming) — can be used to tackle intractable combinatorial optimization problems. Much of my earlier work focused on classical machine-learning tasks, including clustering, classification, and decision-tree learning.
 
-The focus theory is centered on developing practical algorithms for solving machine learning problems, particularly those involving finite points and hyperplanes. For example, we have designed exact algorithms to solve classification problems, K-clustering, decision tree optimization, and empirical risk minimization (ERM) for ReLU neural networks. All the algorithms developed within our framework are polynomial-time in the worst case and embarrassingly parallelizable.
+I am currently a Postdoctoral researcher in [Zhenjiang Hu](https://zhenjiang888.github.io/)’s research group at Peking University. Our team is developing a new programming language, referred to as [C*](https://arxiv.org/abs/2504.02246), that aims to unify programming and formal verification for C, enabling developers to write high-assurance systems without separating the acts of coding and proving correctness.
+
 
 # Experience
 
-## Education
+## Working Experience
 
-- Dec. 2021- present:  I am a third-year PhD student from the [Department of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), supervised by Dr. [Max. Little](http://www.maxlittle.net/home/index.php). 
-- Sept. 2017- June 2021: *Bachelor of Science* at [Zhejiang Normal University](https://www.zjnu.edu.cn/main.htm).  Where I majored in Mechanical Design Manufacturing and Automation.
+- Oct. 2025 – present: *Postdoctoral researcher*, [Programming language Lab](https://pl.cs.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/). 
+
+## Education 
+
+- Dec. 2021- Apr. 2025:  *Doc of Philosophy* at [University of Birmingham (School of Computer Science)](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/computer-science). I am supervised by Prof. [Max. Little](http://www.maxlittle.net/home/index.php), and my thesis examiners are Prof. [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford (Department of Computer Science), Prof. [Shuo Wang](https://phd-shuowang.weebly.com/), University of Birmingham (School of Computer Science)
+
+
+- Sept. 2017- June 2021: *Bachelor of Science* at Zhejiang Normal University, where I majored in Mechanical Design Manufacturing and Automation.
 
 ## Research
 
+
+- [Recursive optimization: exact and efficient combinatorial optimization algorithm design principles with applications to machine learning](https://etheses.bham.ac.uk/id/eprint/16124/) **Xi He**, *PhD thesis*.
+
+- [Proper decision trees: An axiomatic framework for solving optimal decision tree problems with arbitrary splitting rules](https://arxiv.org/abs/2503.01455) **Xi He**, Max A. Little (Under review)
+
+- [Foundational theory for optimal decision tree problems. I. Algorithmic and geometric foundations](https://arxiv.org/abs/2509.11226) **Xi He** (Under review)
+
+- [Foundational theory for optimal decision tree problems. II. Optimal hypersurface decision tree algorithm](https://arxiv.org/abs/2509.12057) **Xi He** (Under review)
+
+- [Combination generators with optimal cache utilization and communication free parallel execution](https://arxiv.org/abs/2507.03980) **Xi He**, Max A. Little (Under review)
+
+- [Deep-ICE: The first globally optimal algorithm for empirical risk minimization of two-layer maxout and ReLU networks](https://arxiv.org/abs/2503.01455) **Xi He**, Yi Miao， Max A. Little (Under review)
+
+- [Dynamic programming by polymorphic algebraic shortcut fusion](https://dl.acm.org/doi/pdf/10.1145/3664828) Max A. Little, **Xi He**, Ugur Kayas, *Formal Aspects of Computing*.
 - [An efficient, provably exact, practical algorithm for the 0-1 loss linear classification problem](https://arxiv.org/pdf/2306.12344) **Xi He**, Waheed Ul Rahman, Max A. Little (Under review)
-- [Dynamic programming by polymorphic algebraic shortcut fusion](https://dl.acm.org/doi/pdf/10.1145/3664828) Max A. Little, **Xi He**, Ugur Kayas, *Formal Aspects of Computing* (in press).
-- [EKM: An exact, polynomial-time algorithm for the K-medoids problem](https://arxiv.org/pdf/2405.12237) **Xi He**, Max A. Little (Under review).
-- The first empirical risk minimization algorithm for the ReLU neural networks **Xi He**, Max A. Little (in preparation).
-- Optimal decision tree algorithms: A divide-and-conquer approach **Xi He**, Max A. Little (in preparation).
-- Recursive optimization: Exact and efficient combinatorial optimization algorithm design principles **Xi He**, Max A. Little (in preparation).
+
 
 All the papers that are in preparation can be found in the discussion of my (draft) thesis [Recursive optimization framework](/assets/exact_ml_design_v9(DRAFT).pdf). 
 
